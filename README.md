@@ -1,8 +1,10 @@
 
 <img align="center" height="200" width="1560" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"  />
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="450px" align="right" alt="Computador iuriCode">
+
 
 <div align="center"> 
+
+<img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif"  width="450px" align="right" alt="Computador iuriCode">
 
 <h2 align="left">Hi 👋! My name is Felipe and I'm a programmer from brazil</h2>
 
