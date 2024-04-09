@@ -20,7 +20,7 @@
 
 
 #
-***Felipe Pires***
+<img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" width="30px">&nbsp;***Felipe Pires***
 
 
 Hello programmer, 👋 Welcome to my GitHub here you can see some of my projects.
