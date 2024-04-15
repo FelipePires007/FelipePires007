@@ -1,12 +1,15 @@
-
 <img align="center" height="200" width="1560" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"  />
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=750&lines=HELLO%2C+I'm+Felipe+;I'm+from+Brazil;I'm+studying+Software+Developer;Be+Welcome!++%3A)" alt="Typing SVG" />
+</div>
 
 
 <div align="center"> 
 
 
+#
 
-<h2 align="left">Hi 👋! My name is Felipe and I'm a programmer from brazil</h2>
 
 <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif"  width="450px" align="right" alt="Computador iuriCode">
 
