@@ -76,8 +76,10 @@ Hello programmer, 👋 Welcome to my GitHub here you can see some of my projects
 
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipePires007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePires007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FelipePires007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center" style="display: inline_block" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipePires007&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePires007&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
