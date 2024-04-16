@@ -91,6 +91,8 @@ Hello programmer, 👋 Welcome to my GitHub here you can see some of my projects
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
 
 
                                                                
